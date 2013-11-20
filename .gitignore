@@ -1,0 +1,14 @@
+# VENDORS
+vendor/*
+
+# IDE files
+*.sw[op]
+/nbproject/
+.idea/
+.project
+.settings
+
+# OS X
+._*
+.DS_Store
+.Trashes
